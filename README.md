@@ -10,6 +10,7 @@ Simple Paint Desktop Application in Java
   <li>Uses inheritance to create a Paint Program</li>
   <li>Imports and exports images onto JPanel with File I/O</li>
   <li>Creates Shapes including Rectangles, Ovals, and Lines whenever mouse is pushed down, dragged, and released</li>
+  <li>Ability Choose different colors, including red, green, blue, magenta, and black</li>
   <li>Draw/Fill method options</li>
   <li>Undo and redo methods</li>
 </ul>

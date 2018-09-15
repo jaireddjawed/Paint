@@ -14,3 +14,9 @@ Simple Paint Desktop Application in Java
   <li>Draw/Fill method options</li>
   <li>Undo and redo methods</li>
 </ul>
+<h2>Instructions</h2>
+<ul>
+  <li>Git clone repo</li>
+  <li>javac Paint.java</li>
+  <li>java Paint</li>
+</ul>
